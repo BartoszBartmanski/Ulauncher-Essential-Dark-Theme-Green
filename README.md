@@ -1,5 +1,6 @@
 # Essential Dark Theme - Ulauncher
-A theme for Ulauncher. Essential Dark Theme.
+
+A theme for Ulauncher. Essential Dark Theme with green accents. Fork of Essential Dark Theme.
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -10,8 +11,6 @@ A theme for Ulauncher. Essential Dark Theme.
 ## Installation
 ```sh
 mkdir -p ~/.config/ulauncher/user-themes
-git clone https://github.com/GiorgioReale/Ulauncher-Essential-Dark-Theme.git \
+git clone https://github.com/BartoszBartmanski/Ulauncher-Essential-Dark-Theme-Green.git \
   ~/.config/ulauncher/user-themes/Essential-Dark-Theme
 ```
-### Light Theme:
-[Essential Light Theme](https://github.com/GiorgioReale/Ulauncher-Essential-Light-Theme)
